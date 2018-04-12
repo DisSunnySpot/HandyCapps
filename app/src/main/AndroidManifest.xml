@@ -11,6 +11,8 @@
         android:theme="@style/AppTheme">
 
         <activity android:name=".SearchableActivity"
+
+
             android:launchMode="singleTop"
             >
             <intent-filter>
